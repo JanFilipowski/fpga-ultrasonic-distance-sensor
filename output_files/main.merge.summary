@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Fri Jun  5 17:32:56 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : main
+Top-level Entity Name : main
+Family : Cyclone IV E
+Total logic elements : 2,001
+    Total combinational functions : 1,499
+    Dedicated logic registers : 981
+Total registers : 981
+Total pins : 16
+Total virtual pins : 0
+Total memory bits : 143,360
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

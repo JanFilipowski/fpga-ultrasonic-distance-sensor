@@ -1,3 +1,23 @@
-output_files/
+# Local IDE settings
+.vscode/
+
+# Quartus working directories
 db/
 incremental_db/
+*.qws
+
+# Questa/ModelSim generated run artifacts
+work/
+modelsim.ini
+transcript
+*.mpf
+*.wlf
+*.cr.mti
+
+# Local report sources/exports
+raport/
+
+# Intentionally tracked:
+# - Quartus project/configuration: main.qpf, main.qsf
+# - Quartus generated programming/report files: output_files/
+# - Questa simulation sources/scripts: simulation/
